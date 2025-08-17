@@ -1,4 +1,4 @@
-# CADPlay - Interactive CAD Learning Platform
+# CADPlay - Making 3D design education free, fun and accessible for everyone.
 
 CADPlay is an interactive web-based application designed to teach 3D modeling and Computer-Aided Design (CAD) concepts through hands-on practice and progressive challenges.
 
@@ -115,31 +115,3 @@ CADPlay is an interactive web-based application designed to teach 3D modeling an
 - `SceneContext.jsx` - 3D scene state management
 - `useCADControls.js` - Custom hook for CAD operations
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## Future Enhancements
-
-- [ ] Advanced material system
-- [ ] Import/Export functionality (STL, OBJ formats)
-- [ ] Collaborative editing
-- [ ] Advanced boolean operations with CSG library
-- [ ] Animation and keyframe system
-- [ ] Mobile responsive design
-- [ ] User accounts and progress tracking
-- [ ] Community challenge sharing
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Three.js community for excellent 3D graphics library
-- React Three Fiber team for React integration
-- Tailwind CSS for utility-first styling approach
